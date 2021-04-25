@@ -1,7 +1,10 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"github.com/jdowning27/hexchess/common"
+)
 
 func main() {
-	fmt.Println("Welcome to HexChess!")
+	fmt.Println(common.GetWelcome())
 }

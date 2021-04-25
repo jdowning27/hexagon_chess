@@ -1,10 +1,10 @@
 # hexchess
 An exercise in Go to create a hexagonal version of chess.
 
-My goal for this project is to practice programming in go and to have some fun doing it.
+My goal for this project is to practice programming in Go and to have some fun doing it.
 
-I will be creating a hex_chess game that will allow players to play remote games of chess
-on a hexagonal board. 
+I will be creating a hexchess game that will allow players to play remote games of chess
+on a hexagonal board. See planning for more details.
 
 ## Project Structure
 - `build`: contains artifacts and executables from the build process.
