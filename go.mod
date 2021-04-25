@@ -1,3 +1,3 @@
-module github.com/jdowning27/hexagon_chess
+module github.com/jdowning27/hexchess
 
 go 1.15

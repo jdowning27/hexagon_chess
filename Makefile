@@ -1,10 +1,10 @@
 all: build run
 
 run: build
-	./bin/hex_chess
+	./build/hex_chess
 
 build: main.go
-	go build -o bin/hex_chess main.go
+	go build -o build/hexchess main.go
 
 clean:
-	rm -rf ./bin
+	rm -rf ./build
